@@ -1,0 +1,7 @@
+vendor/
+challenges/
+pest/
+phpunit/
+key.php
+.phpunit.result.cache
+.env
